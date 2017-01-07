@@ -1,0 +1,11 @@
+INFO: 2016-11-12 18:39:05,763: Starting homework9.py
+INFO: 2016-11-12 18:39:05,764: Arguments successfully parsed
+INFO: 2016-11-12 18:39:05,764: Output file is hw9
+INFO: 2016-11-12 18:39:05,765: Number of nodes is 5
+INFO: 2016-11-12 18:39:05,765: Edge probability is 0.77
+INFO: 2016-11-12 18:39:05,765: Maximum weight is 500
+INFO: 2016-11-12 18:39:05,765: Running Prim's algorithm
+INFO: 2016-11-12 18:39:05,765: Total MST weight is 544
+INFO: 2016-11-12 18:39:05,765: Running Kruskal's algorithm
+INFO: 2016-11-12 18:39:05,765: Total MST weight is 544
+INFO: 2016-11-12 18:39:05,765: Successfully wrote hw9

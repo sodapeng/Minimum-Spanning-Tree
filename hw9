@@ -1,0 +1,13 @@
+Graph is:
+ ({0, 1, 2, 3, 4}, {0: {(2, 284), (3, 170), (4, 140), (1, 337)}, 1: {(0, 337), (2, 280)}, 2: {(1, 280), (4, 99), (0, 284)}, 3: {(4, 25), (0, 170)}, 4: {(3, 25), (2, 99), (0, 140)}})
+Random start node is 2
+Running Prim's algorithm on G,s
+P is:
+{0: 4, 1: 2, 2: None, 3: 4, 4: 2}
+T is:
+{(2, 1), (2, 4), (4, 3), (4, 0)}
+Total MST weight is 544
+Running Kruskal's algorithm on G
+T is:
+{(1, 2), (3, 4), (2, 4), (0, 4)}
+Total MST weight is 544
